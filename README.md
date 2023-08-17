@@ -1,1 +1,0 @@
-# gcc-like-compiler
